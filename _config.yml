@@ -13,14 +13,32 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 url:              http://hyde.getpoole.com
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
+# github:
+#   repo:           https://github.com/poole/hyde
 
+author:
+  name:           'Chengzhi Song'
+  email:          songchengzhiinhk@gmail.com
+
+paginate:         3
+paginate_path: "blog/page:num"
+
+gems: [jekyll-paginate]
+
+# custom vars
+since:                  2020
+# google_analytics:       UA-63207330-1
+emailme:                mailto:czsong@surgery.cuhk.edu.hk
 github:
-  repo:           https://github.com/poole/hyde
+  repo:                 https://github.com/ChengzhiSong6/czsong.github.io/
+version:                Mar.6.2020
+# orcid_username:         0000-0003-4281-5120
+# researcherid_username:  R-3094-2018
+# googlescholar_username: fWi5tx8AAAAJ&hl
+# researchgate_username:  Zerui_Wang
+linkedin_username:      ChengzhiSong
+github_username:        ChengzhiSong6
+# share_pdf:              no
+# share_video:            no
