@@ -1,13 +1,13 @@
-Chengzhi's Home Page
-https://chengzhisong6.github.io/scz.github.io/
+### Chengzhi's Home Page
 
-Theme
-The theme is forked from hyde.
+[https://chengzhisong6.github.io/scz.github.io/](https://chengzhisong6.github.io/scz.github.io/)
 
-License
-Open sourced under the MIT license.
+### Theme
+The theme is forked from [hyde](https://github.com/poole/hyde).
 
-Acknowledgment
-Thanks to Long Qian, Zerui Wang I am motivated to start blogging.
+### License
 
-© 2020 GitHub, Inc.
+Open sourced under the [MIT license](LICENSE.md).
+
+### Acknowledgment
+Thanks to [Long Qian](http://longqian.me), [Zerui Wang](http://www.wangzerui.com) I am motivated to start blogging.

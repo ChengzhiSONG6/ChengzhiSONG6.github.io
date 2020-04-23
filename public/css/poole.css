@@ -61,6 +61,7 @@ html {
 body {
   color: #515151;
   background-color: #fff;
+  overflow-y: scroll;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -107,6 +108,10 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+.full-width {
+  float: right;
+  width: 100%;
 }
 
 strong {

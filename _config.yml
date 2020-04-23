@@ -8,15 +8,10 @@ permalink:        pretty
 
 # Setup
 title:            Chengzhi Song
-tagline:          'Chengzhi Song'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-# Custom vars
-# version:          2.1.0
-# github:
-#   repo:           https://github.com/poole/hyde
+# tagline:          'Life is like a box of Chocolate!'
+description:      'Welcome to my personal blog<br>Sharing life and tech.'
+url:              https://github.com/ChengzhiSONG6/scz.github.io/
+# baseurl:          
 
 author:
   name:           'Chengzhi Song'
@@ -32,13 +27,13 @@ since:                  2020
 # google_analytics:       UA-63207330-1
 emailme:                mailto:czsong@surgery.cuhk.edu.hk
 github:
-  repo:                 https://github.com/ChengzhiSong6/czsong.github.io/
-version:                Mar.6.2020
-# orcid_username:         0000-0003-4281-5120
-# researcherid_username:  R-3094-2018
-# googlescholar_username: fWi5tx8AAAAJ&hl
-# researchgate_username:  Zerui_Wang
+  repo:                 https://github.com/ChengzhiSONG6/scz.github.io/
+
+version:                Apr.23.2020
+orcid_username:         0000-0002-0333-5776
+googlescholar_username: S6_hs6wAAAAJ&hl
+# researchgate_username: 
 linkedin_username:      ChengzhiSong
 github_username:        ChengzhiSong6
-# share_pdf:              no
-# share_video:            no
+share_pdf:              no
+share_video:            no
