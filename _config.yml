@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 # relative_permalinks: true
 
 # Setup
@@ -11,14 +11,15 @@ title:            Chengzhi Song
 # tagline:          'Life is like a box of Chocolate!'
 description:      'Welcome to my personal blog<br>Sharing life and tech.'
 url:              https://github.com/ChengzhiSONG6/scz.github.io/
-# baseurl:          
+# url:              https://chengzhisong6.github.io
+# baseurl:          /scz.github.io
 
 author:
   name:           'Chengzhi Song'
   email:          songchengzhiinhk@gmail.com
 
-paginate:         3
-paginate_path: "blog/page:num"
+paginate:         5
+paginate_path: "/blog/page:num/"
 
 gems: [jekyll-paginate]
 
