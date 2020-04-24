@@ -1,6 +1,6 @@
 ### Chengzhi's Home Page
 
-[https://chengzhisong6.github.io/scz.github.io/](https://chengzhisong6.github.io/scz.github.io/)
+[https://chengzhisong6.github.io/](https://chengzhisong6.github.io/)
 
 ### Theme
 The theme is forked from [hyde](https://github.com/poole/hyde).
