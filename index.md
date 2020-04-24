@@ -15,7 +15,7 @@ Prior to my Ph.D studies, I received B.E. degree at [Beihang University](http://
 
 My research interests are vision-based soft object manipulation, vision-based surgical tool tracking and control, and developments of robotic surgical components and systems, with emphasis on both scientific and engineering aspects.
 
-<!-- You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf) {:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"} -->
+You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
 ### Education
 * Ph.D. Degree, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Jul. 2017
@@ -24,9 +24,20 @@ My research interests are vision-based soft object manipulation, vision-based su
 
 ### Professional Experience
 
-<!-- #### Academic Service
+#### Academic Service
 * Leading Editor of Frontiers in AI and Robotics Special Issue: [Learning, Sensing and Control for Autonomous Manipulation of Deformable Objects](https://www.frontiersin.org/research-topics/13353/learning-sensing-and-control-for-autonomous-manipulation-of-deformable-objects)
-* Associate Editor of 2019 IEEE/RSJ IROS -->
+* Associate Editor of 2019 IEEE/RSJ IROS
+
+#### Grant
+* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
+
+#### Examinership
+* MPhil. Thesis Defense entitled "Development of Portable and Convenient to Use Cable Robot System" in July 2019
+* MPhil. Thesis Defense entitled "Ray-based Interference Free Workspace Analysis and Path Planning for Cable-Driven Robots" in January 2019
+* Ph.D. Thesis Defense entitled "Proprioception-Aided Visual State Estimation for Mobile Robots" in April 2019
+
+#### Teaching
+* MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 98)
 
 #### Teaching Assistance
 * ENGG5402 Advanced Robotics (Spring 2015)

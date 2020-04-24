@@ -4,19 +4,17 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
 
 # Setup
 title:            Chengzhi Song
 tagline:          'Truzz!'
 description:      'Life is like a box of Chocolate!<br>Welcome to my personal blog<br>Sharing life and tech.'
-url:              https://chengzhisong6.github.io/scz.github.io
-baseurl:          /scz.github.io/
-# url:              https://chengzhisong6.github.io
+url:              https://chengzhisong6.github.io/scz.github.io/
+# baseurl:          /scz.github.io/
 
 author:
   name:           'Chengzhi Song'
-  email:          songchengzhiinhk@gmail.com
+  email:          songchenghziinhk@gmail.com
 
 paginate:         3
 paginate_path: "blog/page:num"
@@ -24,17 +22,23 @@ paginate_path: "blog/page:num"
 gems: [jekyll-paginate]
 
 # custom vars
-since:                  2020
+since:                  2015
 # google_analytics:       UA-63207330-1
-emailme:                mailto:czsong@surgery.cuhk.edu.hk
+emailme:                mailto:songchenghziinhk@gmail.com
 github:
   repo:                 https://github.com/ChengzhiSONG6/scz.github.io
-
 version:                Apr.24.2020
-orcid_username:         0000-0002-0333-5776
+# orcid_username:         0000-0003-4281-5120
+# researcherid_username:  R-3094-2018
 googlescholar_username: S6_hs6wAAAAJ&hl
-# researchgate_username: 
+# researchgate_username:  Zerui_Wang
 linkedin_username:      ChengzhiSong
 github_username:        ChengzhiSong6
+youtube_username: UC8cGoer178dqIYzl2TPtYQA
 share_pdf:              no
 share_video:            no
+# facebook_username: zrwang.cuhk
+# google_plus_username: 115306810481973645007
+# twitter_username: wangzerui
+# instagram_username: wzr.mavericker
+# cv_chn: yes
