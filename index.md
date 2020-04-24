@@ -3,8 +3,7 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin">
-<img src="/public/image/frontpage.jpeg" alt="czsong" style="width:15rem;height:25rem;" align="right"/></p>
+<p class="full-width no-margin"><img src="/public/image/frontpage.jpeg" alt="czsong" style="width:15rem;height:25rem;" align="right"/></p>
 
 <blockquote class="full-width"><p>发上等愿，结中等缘，享下等福；择高处立，寻平处住，向宽处行。</p></blockquote>
 
