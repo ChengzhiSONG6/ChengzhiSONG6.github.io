@@ -1,5 +1,5 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
       <h1>
         {{ site.title }}
@@ -29,6 +29,7 @@
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
+
       <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li>
       <!-- social buttons -->
       {% if site.orcid_username %}
