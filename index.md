@@ -3,25 +3,29 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/public/image/homepage.jpg" alt="czsong" style="width:15rem;height:25rem;" align="right"/></p>
-
 <blockquote class="full-width"><p>发上等愿，结中等缘，享下等福；择高处立，寻平处住，向宽处行。</p></blockquote>
 
-I was a Research Assistant Professor in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK).
+<p class="full-width no-margin"><img src="/public/image/aboutme1.png" alt="czsong" style="width:55rem;height:25rem;" align="right"/></p>
 
-Supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html){:target="_blank"}, I received my Ph.D. degree in the MAE department at CUHK, advised by [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu){:target="_blank"} in July 2017, and then I served as a Post-Doctoral Research Fellow in the MAE department at CUHK for half a year.
-During the last two years of my Ph.D. study, I was working with [Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/){:target="_blank"} as a visiting student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}.
-Prior to my Ph.D studies, I received B.E. degree at [Beihang University](http://www.buaa.edu.cn/){:target="_blank"}, China.
+I'm from Urumqi, XinJiang, China and currently working with Prof. [Philip, Waiyan Chiu](https://www.med.cuhk.edu.hk/staff/professor-chiu-wai-yan-philip){:target="_blank"} and Prof. Zheng Li on my final year as a Ph.D. candidate in the Dept. of [Surgery](http://www.surgery.cuhk.edu.hk){:target="_blank"}, The Chinese University of Hong Kong, [CUHK](http://www.cuhk.edu.hk){:target="_blank"}. For those who are interested, you can further look into my formal
+{% if site.cv_chn %}curriculum vita ([ENG](/documents/CV_eng.pdf){:target="_blank"}, [CHN](/documents/CV_ch.pdf){:target="_blank"}),
+{% else %}[CV](/documents/CV_eng.pdf){:target="_blank"}
+{% endif %} for your information.
 
+I'd like to share my life and some technical experience through posting [blogs](../blog/){:target="_blank"}.
+
+### News
+During the past half year of my Ph.D. study, I was working with Prof. [Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and Dr. [Long Qian](http://longqian.me/){:target="_blank"} as a visiting student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}. The video illustrating our project can be found in my Youtube Channel: [Chengzhi Song](https://www.youtube.com/channel/UC8cGoer178dqIYzl2TPtYQA){:target="_blank"}, link also available by clicking on the Youtube icon on left sidebar.
+
+### Interests
 My research interests are vision-based soft object manipulation, vision-based surgical tool tracking and control, and developments of robotic surgical components and systems, with emphasis on both scientific and engineering aspects.
 
-You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
-
+<!-- 
 ### Education
 * Ph.D. Degree, Surgery, The Chinese University of Hong Kong, HKSAR, Aug. 2016 ~ Jul. 2020
 * Visiting Ph.D. Student, Robotics, Johns Hopkins University, US, Sep. 2019 ~ Apr. 2020
 * MSc. Degree, Electronic Engineering, The Hong Kong University of Science and Technology, HKSAR, Sep. 2013 ~ Jun. 2014
-* B.E. Degree, Automation, Xiamen University, China, Sep. 2009 ~ Jul. 2013
+* B.E. Degree, Automation, Xiamen University, China, Sep. 2009 ~ Jul. 2013 -->
 
 <!-- ### Professional Experience -->
 
