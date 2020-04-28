@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Blog - Life
+layout: post
+title: Blog - publications
+category: work
 ---
 
 _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
