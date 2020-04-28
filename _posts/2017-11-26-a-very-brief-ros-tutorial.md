@@ -4,6 +4,10 @@ title: A Very Brief ROS Tutorial
 description: This is a brief tutorial showing you how to properly install and use ROS. The tutorial has three examples, which cover the most basic stuffs as well as working principles and philolophies.
 ---
 
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ## 0.0 Installing Debian-based Linux distributions like Ubuntu.
 Theoretically, you can install ROS under any Debian-based Linux distributions. However, this tutorial is tested under [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/){:target="_blank"}.
 
