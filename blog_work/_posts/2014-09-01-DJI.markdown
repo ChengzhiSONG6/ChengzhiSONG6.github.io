@@ -1,0 +1,9 @@
+---
+layout: post
+title: Work in DJI
+date:   2020-04-28 15:04:21 +0800
+category: work
+description: This post shows the work in the DJI
+---
+
+Welcome to the first blog related to my working experience

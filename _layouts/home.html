@@ -9,27 +9,23 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size >= 0 -%}
+  <!-- {% if site.posts.size >= 0 %}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
-      <!-- {%- if post.category=="work" -%} -->
-      <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} -->
-      <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+      {% for post in site.posts %}
       <h3>
         <a class="post-link" href="{{ post.url | relative_url}}">
           {{ post.title | escape }}
         </a>
-      </h3>      
-      <!-- {%- endif -%} -->
-      {%- endfor -%}
+      </h3>
+      {% endfor %}
     </ul>
 
-  {%- endif -%}
+  {% endif %} -->
 
 </div>
-<!-- 
-<div class="posts">
+
+<!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 c lass="post-title">
@@ -43,9 +39,9 @@ layout: default
     {{ post.description }}
   </div>
   {% endfor %}
-</div> -->
+</div>
 
-<!-- <div class="pagination">
+<div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
