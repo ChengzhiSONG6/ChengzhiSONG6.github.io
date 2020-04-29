@@ -3,7 +3,7 @@ layout: post
 title:  Publications
 date:   2020-04-29 09:00:00 +0800
 category: tech
-description: Publications
+# description: Publications
 ---
 
 _<sup>\*</sup> denotes co-first authorship._
@@ -11,9 +11,9 @@ _<sup>\*</sup> denotes co-first authorship._
 ## Journal
 
 4. X. Ma\*, **C. Song\***, P. W. Chiu and Z. Li, *"Visual Servo of a 6-DOF Robotic Stereo Flexible Endoscope Based on da Vinci Research Kit (dVRK) System,"* in IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 2, pp. 820-827, April 2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/documents/publs/2020_icra_ral.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8959288){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper](../_techdoc/publs/2020_icra_ral.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8959288){:target="_blank"}{% endif %}
 
-3. W. Li, **C. Song** and Z. Li, *"An Accelerated Recurrent Neural Network for Visual Servo Control of a Robotic Flexible Endoscope with Joint Limit Constraint,"* in IEEE Transactions on Industrial Electronics. December 2019.
+1. W. Li, **C. Song** and Z. Li, *"An Accelerated Recurrent Neural Network for Visual Servo Control of a Robotic Flexible Endoscope with Joint Limit Constraint,"* in IEEE Transactions on Industrial Electronics. December 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/documents/publs/2019_tie.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8936533){:target="_blank"}{% endif %}
 
 2. **Song, C.**, Ma, X., Xia, X., Chiu, P.W.Y., Chong, C.C.N. and Li, Z.. *"A robotic flexible endoscope with shared autonomy: a study of mockup cholecystectomy."* Surgical endoscopy, pp.1-12, November 2019.
