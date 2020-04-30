@@ -5,9 +5,9 @@ title: About Me
 
 <img src="/public/image/aboutme1.png" alt="czsong" style="float: right; width:80%; height: 80%;"/>
 <!-- <blockquote class="full-width"><p>发上等愿，结中等缘，享下等福；择高处立，寻平处住，向宽处行。</p></blockquote> -->
-<blockquote>发  择<br>上  高<br>等  处<br>愿  立<br><br>
-结  寻<br>中  平<br>等  处<br>缘  住<br><br>
-享  向<br>下  宽<br>等  处<br>福  行  
+<blockquote><b>发 &nbsp;&nbsp; 择<br>上 &nbsp;&nbsp; 高<br>等 &nbsp;&nbsp; 处<br>愿 &nbsp;&nbsp; 立<br><br>
+结 &nbsp;&nbsp; 寻<br>中 &nbsp;&nbsp; 平<br>等 &nbsp;&nbsp; 处<br>缘 &nbsp;&nbsp; 住<br><br>
+享 &nbsp;&nbsp; 向<br>下 &nbsp;&nbsp; 宽<br>等 &nbsp;&nbsp; 处<br>福 &nbsp;&nbsp; 行</b>
 </blockquote>  
 
 I'm from Urumqi, XinJiang, China and currently working with Prof. [Philip, Waiyan Chiu](https://www.med.cuhk.edu.hk/staff/professor-chiu-wai-yan-philip){:target="_blank"} and Prof. Zheng Li on my final year as a Ph.D. candidate in the Dept. of [Surgery](http://www.surgery.cuhk.edu.hk){:target="_blank"}, The Chinese University of Hong Kong, [(CUHK)](http://www.cuhk.edu.hk){:target="_blank"}. For those who are interested, you can find further details in my formal
