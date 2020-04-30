@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Work in Seemine
-date:   2020-04-28 15:04:21 +0800
+title: Design of SMA Rib Fixator ( 肋骨固定器)
+date:   2015-03-28 15:04:21 +0800
 category: work
-description: This post shows the work in the company Seemine
+description: The product designed and fabricated in the company Seemine
 ---
 
 Welcome to the first blog related to my working experience
