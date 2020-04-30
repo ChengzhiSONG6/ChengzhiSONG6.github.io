@@ -3,9 +3,12 @@ layout: home
 title: About Me
 ---
 
-<blockquote class="full-width"><p>发上等愿，结中等缘，享下等福；择高处立，寻平处住，向宽处行。</p></blockquote>
-
-<p class="full-width no-margin"><img src="/public/image/aboutme1.png" alt="czsong" style="width:55rem;height:25rem;" align="center"/></p>
+<img src="/public/image/aboutme1.png" alt="czsong" style="float: right; width:80%; height: 80%;"/>
+<!-- <blockquote class="full-width"><p>发上等愿，结中等缘，享下等福；择高处立，寻平处住，向宽处行。</p></blockquote> -->
+<blockquote>发  择<br>上  高<br>等  处<br>愿  立<br><br>
+结  寻<br>中  平<br>等  处<br>缘  住<br><br>
+享  向<br>下  宽<br>等  处<br>福  行  
+</blockquote>  
 
 I'm from Urumqi, XinJiang, China and currently working with Prof. [Philip, Waiyan Chiu](https://www.med.cuhk.edu.hk/staff/professor-chiu-wai-yan-philip){:target="_blank"} and Prof. Zheng Li on my final year as a Ph.D. candidate in the Dept. of [Surgery](http://www.surgery.cuhk.edu.hk){:target="_blank"}, The Chinese University of Hong Kong, [(CUHK)](http://www.cuhk.edu.hk){:target="_blank"}. For those who are interested, you can find further details in my formal
 {% if site.cv_chn %}curriculum vita ([ENG](/documents/CV_eng.pdf){:target="_blank"}, [CHN](/documents/CV_ch.pdf){:target="_blank"}),

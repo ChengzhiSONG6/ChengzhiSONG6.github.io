@@ -1,9 +1,29 @@
 ---
 layout: post
 title: Design of SMA Rib Fixator ( 肋骨固定器)
-date:   2015-03-28 15:04:21 +0800
+date:   2015-10-28 15:04:21 +0800
 category: work
 description: The product designed and fabricated in the company Seemine
 ---
+<a href="http://www.seemine.com.cn/index.php?c=article&a=type&tid=111">
+<img src="/blog_work/figures/seemine-co.jpg" alt="company" width="20%" height="20%" align="left" style="margin: 0px 0px 0 px 0px">
+</a>{:target="_blank"}
 
-Welcome to the first blog related to my working experience
+### Seemine Company
+From Feb. to Oct. in 2015, I worked as a **Research & Develope** staff in the Shape-Memory Alloy (SMA) memomental technology company - Seemine.  
+
+Starting from early Mar. 2015, I systematically studied the requirements and standards for implantable medical devices through searching, translating, and comprehending related official materials. These materials include GB/T 16886 *'Biological evaluation of medical devices'* series on regulations standards and practices of biocompatibility and toxicology & assessment in China, [ASTM committee F04](https://www.astm.org/COMMITTEE/F04.htm){:target="_blank"} on medical and surgical materials and devices.  
+Meanwhile, I applied for Group Rotational Training, and spent 2 months in manufacturing factory getting my hands dirty and learning technical details of producing implantable medical devices. I believe only by this way, I can come up with good design.  
+My opportunity arrived during a seminar with surgeons, and I seized it.
+
+<img src="/blog_work/figures/seemine-ribfixator.png" alt="ribfixator" width="60%" height="80%" style="float: left; margin: 6px 15px 0px 0px;"> **SMA Whole Rib Fixator**  
+**(全包式肋骨骨固定器)**  
+
+During the seminar with Dr. [Guibin Qiao (M.D.)](http://www.gdghospital.org.cn/office/ExpertInfoID.aspx?sid=50&id=1351){:target=—"_blank"} raised an issue: For patients in late stage of lung cancer, the treatment commonly will be open surgery due to large-scale tissue removal. To achieve that, more than half of the rib bone must be removed. But traditional stainless rib fixator is not able to fix this, thus, the prognosis performance is also affected.  
+To tackle this issue, I purposed the SMA whole-rib fixator, shown in left pictures. With the experience gained, I designed and fabricated the product on my own.
+
+<img src="/blog_work/figures/seemine-fightingcancer.jpg" alt="fightcancer" width="20%" height="20%" style="float: right; margin: 0px 0px 0px 0px;">
+During that period, I also translated a book outside the work - Fighting Cancer: A nontoxi approach to treatment by Robert Gort, M.D. and Erik Peper. I translated this book for my mother. She was diagonosed early stage breast cancer in 2014, and 
+she had the surgery following with chemical and radial therapies. The treatment procedure is the darkest time for her, I happened to read this book during that period and desired to ease her pain, so I translated the book one cahpter by one chapter and read to her. Luckily, the prognosis is good and she is getting better and better now. Best wishes to everyone, stay healthy! 
+
+Thank you for reading!
