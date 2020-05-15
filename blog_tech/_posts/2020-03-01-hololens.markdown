@@ -1,0 +1,10 @@
+---
+layout: post
+title:  HoloLens controlled 6-DOF flexible endoscope
+date:   2020-03-01 09:00:00 +0800
+category: tech
+description: Perspective alignment with the user who wishes to observe the surgical operation scene with HoloLens
+---
+
+
+<!-- ## Patent -->

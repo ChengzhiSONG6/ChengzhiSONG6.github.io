@@ -21,5 +21,13 @@ During the past half year of my Ph.D. study, I was working with Prof. [Peter Kaz
 ### Interests
 My research interests are Robot-Assited Minimally Invasive Surgery (RAMIS), mechanical design of the flexible manipulator, vision-based surgical instrument tracking and control, and developments of robotic surgical components and systems, with emphasis on both scientific and engineering aspects.
 
-I am also a big fan of sports, like american footbal, basketball, table-tennis and hiking, etc.
-I'd like to share my life and some technical experience through posting these blogs.
+<a href="https://www.baltimoreravens.com/">
+<img src="/public/image/icon-ravens-logo.jpg" alt="ravens" width="10%" height="10%" style="float: left; margin: 3px 10px 0px 0px;">
+</a>{:target="_blank"}
+I am also a big fan of the NFL team Baltimore Ravens.
+<a href="https://www.nba.com/lakers/">
+<img src="/public/image/icon-lakers.png" alt="lakers" width="10%" height="10%" style="float: left; margin: 6px 25px 0px 0px;">
+</a>{:target="_blank"}  
+and a big fan of NBA team LA Lakers.  
+
+I'd like to share my life and some technical experience through these blogs!
